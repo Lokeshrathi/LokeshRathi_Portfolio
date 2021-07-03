@@ -96,6 +96,7 @@ Data Cleaning:
   - Model gets us an **accuracy score of 87.30% and log_loss of 4.38.**
   ```
   
+ 
  # **Project 6-** _Indian-Elections-2019-Analysis_ ([Link](https://github.com/Lokeshrathi/Indian-Elections-2019-Analysis))
  ```
 - This Notebook gives you a deatiled analysis on **INDIAN ELECTION 2019**. 
@@ -104,9 +105,9 @@ Data Cleaning:
 ```
 Graph:
 - Educational qualifications of the candidates.
-![](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/newplot%20(1)%20(1).png)
+![Image](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/newplot%20(1)%20(1).png)
 
 - The number of candidates with criminal records against each party. BJP is right at the top followed by Congress. (Any suprises?)
-![](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/newplot%20(5).png)
+![Image](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/newplot%20(5).png)
 
 
