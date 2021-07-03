@@ -102,5 +102,11 @@ Data Cleaning:
 - Data has been pulled from [kaggle](https://www.kaggle.com/lokeshrth4617/indian-election-2019?scriptVersionId=37582691)
 - Tech used - **Python 3.0,Jupyer-Notbook,Plotly, Seaborn**
 ```
+Graph:
+- Educational qualifications of the candidates.
+![](https://github.com/Lokeshrathi/Indian-Elections-2019-Analysis/blob/master/Images/newplot%20(2).png)
+
+- The number of candidates with criminal records against each party. BJP is right at the top followed by Congress. (Any suprises?)
+![](https://github.com/Lokeshrathi/Indian-Elections-2019-Analysis/blob/master/Images/newplot%20(5).png)
 
 
