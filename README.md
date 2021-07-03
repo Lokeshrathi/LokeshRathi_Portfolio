@@ -21,9 +21,9 @@ f) URL**
 ```
 - Result
 
-![Image](https://github.com/Lokeshrathi/LinkedIn-Profile-Scraping/blob/main/LinkedIn%20Profiles.PNG)
+![Image](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/LinkedIn%20Profiles.PNG)
 
-# **Project 2-** _Instagram_Bot_
+# **Project 2-** _Instagram_Bot_ ([Link](https://github.com/Lokeshrathi/Instagram_bot))
 This BOT signs into your Instagram Account and Likes and Comments on Posts with specific tags.
 
 ## Inspiration:
@@ -37,7 +37,7 @@ Steps to follow:
 ```
 ## Results!
 
-![Image](https://github.com/Lokeshrathi/Instagram_bot/blob/main/Instagram%20Results.jpeg)
+![Image](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/Instagram%20Results%20(1).jpeg)
 
 
 # **Project 3-** _Covid-Vaccination-Slot-check_ ([Link](https://github.com/Lokeshrathi/Covid-Vaccination-Slot-check))
@@ -104,9 +104,9 @@ Data Cleaning:
 ```
 Graph:
 - Educational qualifications of the candidates.
-![](https://github.com/Lokeshrathi/Indian-Elections-2019-Analysis/blob/master/Images/newplot%20(2).png)
+![](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/newplot%20(1)%20(1).png)
 
 - The number of candidates with criminal records against each party. BJP is right at the top followed by Congress. (Any suprises?)
-![](https://github.com/Lokeshrathi/Indian-Elections-2019-Analysis/blob/master/Images/newplot%20(5).png)
+![](https://github.com/Lokeshrathi/LokeshRathi_Portfolio/blob/main/newplot%20(5).png)
 
 
