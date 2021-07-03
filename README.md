@@ -1,79 +1,98 @@
-## Welcome to GitHub Pages
+# Welcome to My Portfolio
 
-You can use the [editor on GitHub](https://github.com/Lokeshrathi/Lokesh_Rathi_Portfolio1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I have listed down some Data Science related projects here!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# **Project 1-** _LinkedIn-Profile-Scraping_ ([Link](https://github.com/Lokeshrathi/LinkedIn-Profile-Scraping))
+Scraping LinkedIn Data of Top 10 Data Analyst in Bangalore via Google Search
 
-### Markdown
+In this Project, I have Scraped LinkedIn Data of Top 10 Analyst in Bangalore, India.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+Scraping Overview:
+1. Used Google Search to find the Profiles of Top 10 Analyst - (*'site:linkedin.com/in/ AND "Data Analyst" AND "Bangalore"'*)
+2. Extarcting all the LinkedIn Profile Links from the Page.
+3. Individually visiting each profile and extacting data.
+**a) Name
+b) Title
+c) Company
+d) Education
+e) Followers
+f) URL**
+```
+## Result
 
-```markdown
-Syntax highlighted code block
+![Image](https://github.com/Lokeshrathi/LinkedIn-Profile-Scraping/blob/main/LinkedIn%20Profiles.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+# **Project 2-** _Instagram_Bot_
+This BOT signs into your Instagram Account and Likes and Comments on Posts with specific tags.
 
-- Bulleted
-- List
+## Inspiration:
+Living in the world of Automation, we are surrounded by technology all around us, Creating and Building is the only way to keep oneself updated and learning all the way.
+Also, I would appreciate any Pull Requests/Issues one may encounter.
+```
+## Steps to follow:
+1. Make sure to download your WebDriver(Chrome/Firefox) [Link](https://chromedriver.chromium.org/downloads) 
+2. Enter your Details like Username, Password, Hashtags and Comments in the details.py file
+3. Run the code for the first 20-30 links, running any further Instagram might stop your program from adding Comments further.
+```
+## Results!
 
-1. Numbered
-2. List
+![Image](https://github.com/Lokeshrathi/Instagram_bot/blob/main/Instagram%20Results.jpeg)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+# **Project 3-** _Covid-Vaccination-Slot-check_ ([Link](https://github.com/Lokeshrathi/Covid-Vaccination-Slot-check))
+
+Want to know your Covid nearest vaccination center and slots availability?
+```
+Input: 
+1. Enter your Postal Code.
+
+2. Enter for Number of days you want to see the results for.
+
+3. Enter the Start date.
+
+## Source: https://www.cowin.gov.in/home
+## Also you can send this as a mail if someone might require the data!
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# **Project 4-** _Manipulating-Mail-Account_ ([Link](https://github.com/Lokeshrathi/Manipulating-Mail-Account))
 
-### Jekyll Themes
+Have you ever wanted to delete emails in your mail box but you know it will take a lot of your time and effort to do it manually ?
+```
+#### Things you can do:
+1. Delete Mails from a Specific Sender
+2. Delete Mails for a particular Time Periods.
+3. Delete Mails having a Particular Subject!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lokeshrathi/Lokesh_Rathi_Portfolio1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Lets see How Python comes to our rescue!
 
-### Support or Contact
+We gonna be using the Python built-in's imaplib module, but if you want to use some sort of API, we have a tutorial on how to use Gmail API where we show how to read, send and delete emails in Python. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- To generate App Password
+- https://support.google.com/accounts/answer/185833
+```
 
-# IBM-HR-Attrition-Analysis-and-Prediction
+-
+# **Project 5-** _IBM-HR-Attrition-Analysis-and-Prediction_ ([Link](https://github.com/Lokeshrathi/IBM-HR-Attrition-Analysis-and-Prediction))
+
 - In this Notebook, we try to analyse and predict on *Attriction* on the IBM employee Dataset. 
 - Dataset has 1470 rows and 35 columns.
 
-## Data analysis:
- -  We divide the data into Numerical and Categorical type, to analyse them.
- - Using the categorical data, we plot a graph showing the counts for all the entries
- 
- ![](/Images/IBM1.png)
- 
- -Using the Numerical data, we check for the outliers
- 
- ![](/Images/IBM2.png)
- 
- ![](/Images/IBM3.png)
- 
- - We also check for the columns with high multi-collinearity.
- 
- ![](/Images/corr.png)
- 
-## Data Cleaning:
+```
+Data Cleaning:
 
  - Here we remove:
   1. Redundant values
   2. Values with high collinearity.
   3. Removing columns having more than 96% similar values.
   4. Columns that have least correlation with the *target columns*.
-  
-  ![](/Images/c1.png)
-  
-- Data was reshaped to 1340 rows and 35 columns.
+ - Data was reshaped to 1340 rows and 35 columns.
 
 ## Data Scaling:
-
   - *RobustScaler* is a transformation technique that removes the median and scales the data according to the quantile range (defaults to IQR: Interquartile Range). The IQR is the range between the 1st quartile (25th quantile) and the 3rd quartile (75th quantile). It is also robust to outliers, which makes it ideal for data where there are too many outliers that will drastically reduce the number of training data.
   
 ## Data Modeling:
-  
   - We use **XGBoostClassifier** to model our data with hyper-parameter tuning.
   - Model gets us an **accuracy score of 87.30% and log_loss of 4.38.**
+  ```
 
