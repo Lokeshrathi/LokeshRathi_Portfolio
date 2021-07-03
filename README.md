@@ -30,7 +30,7 @@ This BOT signs into your Instagram Account and Likes and Comments on Posts with 
 Living in the world of Automation, we are surrounded by technology all around us, Creating and Building is the only way to keep oneself updated and learning all the way.
 Also, I would appreciate any Pull Requests/Issues one may encounter.
 ```
-## Steps to follow:
+Steps to follow:
 1. Make sure to download your WebDriver(Chrome/Firefox) [Link](https://chromedriver.chromium.org/downloads) 
 2. Enter your Details like Username, Password, Hashtags and Comments in the details.py file
 3. Run the code for the first 20-30 links, running any further Instagram might stop your program from adding Comments further.
@@ -95,4 +95,12 @@ Data Cleaning:
   - We use **XGBoostClassifier** to model our data with hyper-parameter tuning.
   - Model gets us an **accuracy score of 87.30% and log_loss of 4.38.**
   ```
+  
+ # **Project 6-** _Indian-Elections-2019-Analysis_ ([Link](https://github.com/Lokeshrathi/Indian-Elections-2019-Analysis))
+ ```
+- This Notebook gives you a deatiled analysis on **INDIAN ELECTION 2019**. 
+- Data has been pulled from [kaggle](https://www.kaggle.com/lokeshrth4617/indian-election-2019?scriptVersionId=37582691)
+- Tech used - **Python 3.0,Jupyer-Notbook,Plotly, Seaborn**
+```
+
 
