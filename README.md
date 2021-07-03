@@ -96,8 +96,8 @@ Data Cleaning:
   - Model gets us an **accuracy score of 87.30% and log_loss of 4.38.**
   ```
   
- 
  # **Project 6-** _Indian-Elections-2019-Analysis_ ([Link](https://github.com/Lokeshrathi/Indian-Elections-2019-Analysis))
+ 
  ```
 - This Notebook gives you a deatiled analysis on **INDIAN ELECTION 2019**. 
 - Data has been pulled from [kaggle](https://www.kaggle.com/lokeshrth4617/indian-election-2019?scriptVersionId=37582691)
