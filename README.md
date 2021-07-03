@@ -19,7 +19,7 @@ d) Education
 e) Followers
 f) URL**
 ```
-## Result
+- Result
 
 ![Image](https://github.com/Lokeshrathi/LinkedIn-Profile-Scraping/blob/main/LinkedIn%20Profiles.PNG)
 
